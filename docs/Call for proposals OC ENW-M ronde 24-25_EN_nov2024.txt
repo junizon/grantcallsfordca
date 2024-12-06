@@ -1,0 +1,566 @@
+Chapter 1: Introduction / Open Competition Domain Science-M
+Content
+1 Introduction 1
+1.1 Background 1
+1.2 Available budget 2
+1.3 Submission deadline(s) 3
+2 Aim 4
+2.1 Aim of the programme 4
+2.2 Societal impact 4
+3 Conditions for applicants 6
+3.1 Who can apply 6
+3.2 What can be applied for 8
+3.3 Preparing an application 11
+3.4 Conditions for submission 12
+3.5 Conditions on granting 13
+4 Assessment procedure 16
+4.1 The San Francisco Declaration (DORA) 16
+4.2 Procedure 16
+4.3 Criteria 20
+5 Obligations for grant recipients 22
+5.1 Additional terms and conditions 22
+6 Contact and other information 24
+6.1 Contact 24
+6.2 Other information 24
+7 Annexes: 25
+7.1 Overview of Domain Science research areas 25
+7.2 Explanation of budget modules 28
+7.3 Procedure Weave proposals with NWO as partner agency 33
+7.4 Glossary International cooperation 39
+1
+Chapter 1: Introduction / Open Competition Domain Science-M
+1 Introduction
+In this Call for proposals information is provided about the application procedure for the Open
+Competition Domain Science-M funding round 2024-2025 and the conditions for bilateral applications
+via the Weave principle. This Call for proposals falls under the responsibility of the Dutch Research
+Council (NWO).
+In this Call for proposals you will find information about the aim of this programme (Chapter 2), the
+conditions for the grant application (Chapter 3) and how your proposal will be assessed (Chapter 4).
+This is the information you need to submit a grant application. Chapter 5 states the obligations for
+grant recipients in the event you are awarded funding. Chapter 6 contains the contact details and
+Chapter 7 the annexes.
+1.1 Background
+NWO advances world-class scientific research. Scientific research – fundamental, applied and practiceoriented research – plays a key role in shaping our society. Through their independent, reliable and
+world-class research, researchers expand the frontiers of our knowledge and capabilities with their
+creativity and perseverance.
+NWO Domain Science (NWO-domein Exacte en Natuurwetenschappen (ENW)) wants to provide
+opportunity for wonder, discovery, unexpected links and inspiration. Within the Open Competition of
+the Domain Science, NWO finances curiosity-driven research within the research areas of the Domain
+Science. The research subject is of your own choice without specific thematic prerequisites.
+There are three types of funding in the NWO Open Competition Domain Science: XS, M and XL which
+all have their specific aim and conditions. A promising idea can be quickly explored with a Domain
+Science-XS-grant and can be further explored with a Domain Science-M-grant. The Domain Science-XLgrants allow for the advancement of the research idea into a world-class, challenging and innovative
+research line by combining the expertise and strengths of multiple researchgroups to work together in
+a consortium. For more information about the Domain Science-XS and –M grants we refer you to the
+respective Call for proposals on the NWO webpage.
+1.1.1 Non-thematic international cooperation through Weave
+Weave is a cross-European initiative set up by European research funders and embedded in Science
+Europe through which 12 European research funders currently fund cross-border research with
+partner countries, see https://Weave-research.net/. Through the lead agency principle, researchers
+can collaborate bottom-up with partners from member countries/regions, for proposals concerning a
+fundamental research question. The aim of Weave is to simplify assessment procedures by having
+applicants submit to a single research funder ('lead agency') that is responsible for further scientific
+evaluation. Upon granting, the other countries' research funders ('partner agencies') fund their ‘own
+researchers’ and thus typically follow the decision of the lead agency where the proposal was
+submitted. 
+2
+Chapter 1: Introduction / Open Competition Domain Science-M
+NWO is not an official partner within the Weave consortium yet, but is exploring whether it could
+eventually become one. To this end, the Domain Science is running a pilot within this Call for proposals
+with partners from Germany and Flanders. NWO has made agreements with the Deutsche
+Forschungsgemeinschaft (DFG) in Germany and with the Fonds Wetenschappelijk Onderzoek -
+Vlaanderen (FWO) on funding bilateral projects according to the Weave principle. Cooperation with
+one or more German or Flemish researchers is possible by submitting a Weave proposal to DFG, FWO
+or NWO. Trilateral projects, in which both DFG, FWO and NWO act as research funders, are excluded
+for the time being.
+Where this Call for proposals refers to a 'Dutch applicant', it means an applicant working at the
+institutions defined in section 3.1, and therefore does not refer to the nationality of the applicant.
+'German or Flemish (co-)applicant' refers to an applicant who meets the submission requirements of
+DFG or FWO respectively, and therefore does not refer to the nationality/origin of the applicant.
+If the proposal is submitted in the Netherlands, NWO acts as lead agency (ENW-M-1-Weave). In that
+case the proposal will be considered and assessed in accordance with the application procedure as
+described in this Call for proposals. Where this Call for proposals refers to 'submission to NWO' this
+refers to both national ENW-M proposals and bilateral ENW-M-1-Weave/LUX proposals (where NWO is
+the lead agency).
+When the proposal is submitted to DFG or FWO, NWO acts as partner agency. The application is then
+processed according to the evaluation procedure of the lead agency’s funding instrument. If NWO acts
+as partner agency, NWO checks amongst other things whether the Dutch co-applicant and the Dutch
+part of the budget meet the conditions of this Call for proposals. To this end the proposal must be
+submitted administratively to NWO (administrative submission). The conditions and the full procedure
+if NWO acts as partner agency are described in the appendix (section 7.3). Section 7.4 includes a
+Weave glossary.
+1.1.2 Changes since the previous Call for proposals
+The Call for proposals Open Competition Domain Science-M, round 2024-2025 is a further
+development of the ENW-M call of recent years. Compared to the Call for proposals of Open
+Competition Domain Science-M, round 2023-2024, two major changes have been made:
+- Adding the possibility of cooperation with researchers from Germany or Flanders. This can be done
+by submitting a bilateral Weave proposal. A Weave proposal can be submitted to NWO (see section
+3.2.1), or to DFG or FWO (see section 7.3 for the conditions for the Dutch part of the proposal).
+- The M-invest proposal option for the sole purpose of an investment disappears. Instead, it becomes
+possible to apply for an investment of maximum size of €500,000 on top of an M-1 proposal (see
+section 3.2, ENW-M-1X).
+1.2 Available budget
+1.2.1 Proposals submitted to NWO, including ENW-M-1-Weave/LUX proposals
+The subsidy ceiling for proposals submitted to NWO for the period is € 50,000,000. Proposals can be
+submitted continuously within this period. The budget available will be distributed according to the
+following:
+− a maximum of five packages, each consisting of a maximum of three clusters, will be taken into
+consideration in the period mentioned;
+− each package consists of up to 84 proposals that will complete the assessment procedure. A
+package will be closed once 84 proposals have been taken into consideration in that package;
+3
+Chapter 1: Introduction / Open Competition Domain Science-M
+− for each package, approximately € 10,000,000 is available. From this, an amount of € 1,200,000
+will be earmarked for at most three proposals that will be awarded funding via preferential
+treatment;
+− the distribution of the subsidy ceiling per package among the clusters follows a weighted
+distribution based on total budget requested per cluster;
+− for each package, first the highest-ranked proposals up to € 8,800,000 will be awarded funding.
+These are the regular allocations. Subsequently, from the earmarked amount, a maximum of three
+proposals will be additionally awarded funding via preferential treatment, one in each cluster. N.B.
+this will not include the proposals already allocated funding via the regular route that are also
+eligible for preferential treatment;
+− An ENW-M-1-Weave proposal must finish in the top 6 of the ranking per cluster to be awarded. If
+a Weave proposal ends up outside the top 6 of the ranking per cluster and the NWO-part of the
+Weave proposal falls within the available budget of the cluster, NWO can consult with the partner
+agency about awarding of the relevant Weave proposal. In this case awarding will depend on the
+financial scope available to the partner agency;
+− If there are residual budgets in the clusters, the combined residual budget is allocated according
+to the method described in section 4.2.9.
+If for the last package less than 84 proposals, but at least 28 admissible proposals, are submitted, then
+the last package will consist of these proposals. The budget available for awarding funding to the
+highest-ranked proposals and the budget for awarding grants to the proposals with a preferential
+treatment will, in that case, be proportionately reduced. If in the last package, fewer than 28
+admissible proposals are submitted, then these proposals will be added to the penultimate package.
+The budget available for awarding funding to the highest-ranked proposals and the budget for
+awarding grants to proposals with a preferential treatment will, in that case, be proportionately
+increased.
+1.3 Submission deadline(s)
+You can submit your proposal at any moment from 6 August 2024 up to and including 31 July 2025,
+14:00:00 CEST, with the exception of ENW-M-1-Weave proposals with FWO as partner agency, which
+may be submitted from 1 December 2024 to 28 February 2025 14:00:00 CET.
+If an ENW-M-1-Weave or ENW-M-1-LUX proposal (see section 3.1) is submitted to NWO, an
+administrative submission of the proposal to the foreign partner agency must also be made within
+seven calendar days of submission to NWO.
+4
+Chapter 2: Aim / Open Competition Domain Science-M
+2 Aim
+This chapter describes the aim of the programme and the societal impact.
+2.1 Aim of the programme
+ENW-M grants are intended for curiosity-driven fundamental scientific research with impact. Impact
+includes both scientific and societal impact, and the programme allows a choice between scientific
+impact, societal impact, or both; see the assessment criteria in Section 4.3.1. Section 2.2 explains how
+societal impact is interpreted within the programme, which focuses on curiosity-driven fundamental
+scientific research.
+ENW-M grants give researchers the opportunity and freedom to initiate or to build on excellent,
+challenging and innovative research lines, both mono disciplinary, multidisciplinary and
+interdisciplinary. ENW-M funding focuses on small-scale research projects in which a concrete research
+project is central. An investment may be crucial to properly carry out the high-quality proposed
+research. Research projects in method development or instrumentation development also fall within
+the scope of this funding instrument. These projects, like the other proposals, are assessed based on
+quality and impact as specified in section 4.3.
+This funding instrument is open for proposals with a research question in or overlapping the fields of
+earth sciences, astronomy, chemistry, computer science, life sciences, physics and mathematics.
+Proposals can be both mono disciplinary, multidisciplinary and interdisciplinary. For applications with a
+(partial) domain-overarching and/or ZonMw component, the core of the research proposal should fit
+one or more of the seven disciplines of the Domain Science, see Section 3.3.1. The disciplines and
+research areas of Domain Sciences are listed in Section 7.1.
+2.2 Societal impact
+New knowledge and insights from scientific research can make an important contribution to
+developing solutions for the various issues society faces, including, amongst other things, the energy
+transition, health and care, or climate change. By facilitating greater interaction and alignment
+between researchers and potential knowledge users, the chance of knowledge utilisation increases, as
+well as the likelihood of generating societal impact. Through its policy on impact, NWO promotes the
+potential contribution that research can make to societal issues by encouraging productive
+interactions with societal stakeholders, both during the development stage and the subsequent
+implementation of research. It does so in a manner that is in accordance with the aim of the particular
+funding instrument.
+2.2.1 Tailor-made impact
+The primary aim of the funding instrument determines the method that NWO will deploy to facilitate
+knowledge utilisation in various phases of the project (proposal, realisation, project completion) as
+well as the effort required from the applicant(s) and partner(s).
+In this programme, the Impact Outlook approach is applied. Here, researchers can choose which type
+of impact they want to specifically focus on, while proportional consideration is also given to what can
+be done for the remaining impact.
+5
+Chapter 2: Aim / Open Competition Domain Science-M
+NWO offers an e-learning module that can help interested parties via NWO Impact - Online workshops.
+For more information on our policy on impact, please visit the website: Knowledge utilisation | NWO. 
+6
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+3 Conditions for applicants
+This chapter contains the conditions that are applicable to your grant application. Firstly it describes
+who can apply for funding (Section 3.1) and what you can request funding for (Section 3.2).
+Subsequently, you will find the conditions for preparing and submitting the application (Sections 3.3
+and 3.4) and the specific funding conditions (Section 3.5).
+3.1 Who can apply
+Full, associate and assistant professors and other researchers with a comparable position* may submit
+an application if they have a tenured position (and therefore a paid position for an indefinite period) or
+a tenure track agreement at one of the following organisations:
+− universities located in the Kingdom of the Netherlands;
+− university medical centres;
+− institutes affiliated to the Royal Netherlands Academy of Arts and Sciences (KNAW) or NWO;
+− Netherlands Cancer Institute;
+− the Max Planck Institute for Psycholinguistics in Nijmegen;
+− Naturalis Biodiversity Center;
+− Advanced Research Centre for NanoLithography (ARCNL);
+− Princess Máxima Center.
+− The Royal Netherlands Meteorological Institute (KNMI);
+− IHE Delft Institute for Water Education.
+*A comparable position refers to a researcher that has a demonstrable and comparable number of
+years of experience in carrying out scientific research and supervising other researchers as a full,
+associate or assistant professor.
+** Persons with a contract for a limited period of time (other than a tenure track appointment) may
+not submit a proposal, except for the following exception. Researchers with a one-year or a two-year
+employment contract who are expected to be offered a permanent employment contract after the
+initial one-year or two-year period has elapsed, are also eligible to submit a proposal. In such cases,
+applicants should add a statement from their employer, confirming that the relevant organization will
+offer the applicant a permanent position if their performance meets the required standards. Persons
+with a zero-hour employment agreement may not submit a proposal.
+It could be the case that the applicant’s tenure track agreement ends before the intended completion
+date of the project for which funding is applied for, or that before that date, the applicant’s tenured
+contract ends due to the applicant reaching retirement age. In that case, the applicant needs to include
+a statement from their employer in which the organisation concerned guarantees that the project and
+all project members for whom funding has been requested will receive adequate supervision for the
+full duration of the project.
+Applicants with a part-time contract should guarantee adequate supervision of the project and all
+project members for whom funding is requested.
+Extra conditions (applies to both the main applicant and co-applicants):
+− ENW-M-1 and ENW-M-1X have a single main applicant and no co-applicants.
+− ENW-M-2 has a single main applicant and a single co-applicant who work together and whose
+expertise is complementary. Main applicant and co-applicant may be employed by the same
+organization, as long as their expertise is complementary.
+7
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+− On the NWO side, ENW-M-1-Weave has one main applicant who meets the conditions set out
+in this Call for proposals and one or more co-applicants who meet the conditions of DFG or
+FWO. Trilateral applications are not possible.
+− ENW-M-1-LUX has one lead applicant who meets the conditions set out in this Call for
+proposals, and one co-applicant who meets the conditions of FNR.
+− For ENW-M-1-Weave and ENW-M-1-LUX applications submitted to NWO, the Dutch applicant
+should be the lead applicant.
+− After substantive consideration of an ENW-M proposal, including a Weave proposal,
+regardless of whether NWO or DFG/FWO is lead agency, Dutch applicants are subject to a
+mandatory waiting period of 12 calendar months before a new application may be submitted,
+regardless of whether a researcher is involved in the role of lead or co-applicant. This period
+starts from the original submission date of a proposal that meets the conditions for
+submission.
+− If the budget module Money follows Cooperation (MfC) is included in an ENW-M-2 proposal,
+the foreign knowledge institution of the co-applicant must meet the requirements in Article
+1.1, paragraph 3 of the NWO Grant Rules 2017, with the exception of the condition that the
+co-applicant must be established in the Kingdom of the Netherlands.
+The representation and promotion of women in science lags considerably behind that of men. NWO
+therefore strongly encourages women to submit proposals.
+3.1.1 Main and co-applicants
+The main applicant submits the proposal via the NWO web application ISAAC. During the assessment
+process, NWO will communicate with the main applicant.
+After a proposal has been awarded funding, the main applicant will become the project leader and
+point of contact for NWO. The knowledge institution of the main applicant is the main beneficiary and
+will become the official secretary.
+The optional co-applicant has an active role in realising the project. The (sub)project leaders and
+beneficiary/beneficiaries are jointly responsible for realising the entire project.
+3.1.2 Preferential treatment for new tenured members of staff and tenure
+trackers
+To simplify the acquisition of funding for starting researchers they can make use of a one-off request
+for preferential treatment. This only applies to ENW-M-1 proposals (and not ENW-M-1X, ENW-M-1-
+weave, ENW-M-1-LUX, ENW-M-2 proposals) . Starting researchers must satisfy the following
+requirements:
+− the starting researcher is at the beginning of their scientific career;
+− the starting researcher has the option to apply for a preferential treatment during two years. This
+two-year period is calculated from the first temporary or tenured appointment as referred to in
+Section 3.1, whichever comes first;
+− prior to the submission date, the starting researcher has not received any previous support in the
+Open Competition Domain Science M or XL, in its predecessors or in the form of a Vidi or Vici
+grant from the NWO Talent Programme;
+− the starting researcher has not previously requested this preferential treatment or its
+predecessor. 
+8
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+For applicants requesting preferential treatment and for whom the final submission date falls during
+the period that the call for proposals OC ENW-M, round 2024-2025 has been closed and round 2025-
+2026 will be opened, the final submission date is extended till 1 September 2025.
+Extension clause
+The extension clause allows applicants requesting preferential treatment under ENW-M-1 an
+extension to their two-year application deadline if they can demonstrate that they have taken a period
+of care leave or sick leave during that period, or that they have had one or more children during that
+period. It is not only applicants who have been absent from work due to pregnancy leave or maternity
+leave who are eligible for the extension clause. Applicants on adoption leave, partners’ leave and leave
+in relation to the arrival of a foster child are also eligible for the extension clause.
+Upon applying for preferential treatment, the biological mother of the child is entitled to an extension
+of 16 weeks per child and the other parent is eligible for an extension of 5 weeks per child. Extensions
+for parents are only granted if the children are part of the same household. In the case of long-term
+illness or care leave involving a first-degree relative, any reduction in working time is compensated. In
+all cases, the maximum extension is one year.
+How do you request preferential treatment (with extension)?
+To request preferential treatment, the application must be accompanied by a separate covering letter
+in which the applicant outlines the extent to which the conditions mentioned above are fulfilled (see
+the template available on the website). If you make use of the extension clause, a statement must also
+be provided by your organization showing when exactly you took abovementioned leave. The manner
+in which NWO applies preferential treatment is described in Section 4.1.11.
+3.2 What can be applied for
+ENW-M-1
+An ENW-M-1 grant has a maximum size of € 400,000 and has a single main applicant and no coapplicants. The grant must be used for a single temporary scientific position (PhD or postdoc) in
+combination with the other budget modules available. The module Investments (€ 150,000 to €
+500,000) and the module Money follows Cooperation are not available for this type of grant.
+ENW-M-1-X
+An ENW-M-1 proposal can be extended to include an investment required for the research to be
+carried out. This variant is called ENW-M-1X. Requested funding for ENW-M-1X has a maximum size of
+€800,000 and has one main applicant, no co-applicants. The funding must be used for one temporary
+scientific position (PhD or postdoc) and an investment via the Investment module (€ 150,000 to €
+500,000), in combination with the other available budget modules. The Money follows Cooperation
+module is not available in this funding form.
+ENW-M-1-Weave
+An ENW-M-1-Weave proposal has one Dutch lead applicant and one or more co-applicants from
+Germany or Flanders working together to carry out the proposed research. The maximum funding
+requested from NWO is €400,000. The funding applied for at NWO must be used for one temporary
+scientific position (PhD or postdoc) in combination with the other available budget modules. The
+Investment module (€ 150,000 to € 500,000) and the Money follows Cooperation module are not
+available in this funding form. Funding requested via Weave from DFG or FWO can be spent in
+accordance with the conditions set by DFG or FWO.
+9
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+ENW-M-1-LUX
+An ENW-M-1-LUX proposal has one main applicant from the Netherlands and one co-applicant from
+Luxembourg working together to carry out the proposed research. The maximum funding requested
+from NWO is €400,000. The funding requested from NWO must be used for one temporary scientific
+position (PhD or postdoc) in combination with the other available budget modules. The Investment
+module (€ 150,000 to € 500,000) and the Money follows Cooperation module are not available in this
+funding form. Funding requested from FNR is to be spent in accordance with the conditions set by FNR.
+ENW-M-2
+An ENW-M-2 grant has a maximum size of € 800,000 and has a single main applicant and a single coapplicant who work together to realise the proposed research. Main applicant and co-applicant may be
+employed by the same organisation, as long as their expertise is complementary. The grant must be
+used for two temporary scientific positions (PhD or postdoc) in combination with the other budget
+modules available with the exception of the module Investments (€ 150,000 to € 500,000). The
+scientific positions must be equally allocated across both collaborating applicants.
+Budget modules
+budget modules (including the maximum amount) available for this Call for proposals are listed in the
+table below. Apply only for funding that is vital to realise the project. A more detailed explanation of
+the budget modules can be found in the annexe to this Call for proposals (7.2).
+Budget module Maximum amount
+PhD student according to UNL or UNF rates1
+Postdoc according to UNL or NFU rates1
+Non-scientific staff (NSS) at universities €100,000, according to UNL or NFU rates1
+; in combination with
+PhD student(s) and or postdoc(s)1
+Material costs €15,000 per year per FTE scientific position
+Investments (up to €150,000) Maximum €150,000
+Investments (€150,000 to €500,000) Greater than or equal to €150,000 (for data collections, a
+minimum of €25,000 applies) and less than or equal to
+€500,000, with 25% contribution by the applying research
+institution
+Knowledge utilisation €25,000
+Internationalisation €25,000
+Money follows Cooperation Less than 50% of the total budget applied for
+1
+ For personnel outside the Netherlands, the local rates are reimbursed. These rates are capped at a maximum equal to the UNL rates
+corrected by the NWO Country correction coefficients (CCC) table, see Money Follows Cooperation | NWO. 
+10
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+3.2.1 Cooperation with researchers abroad
+Within this Call for proposals, there are several options to apply for funding to collaborate with
+researchers abroad. Please contact NWO (see section 6.1.1) if you would like more information about
+this.
+- Travel and accommodation expenses for foreign guest researchers can be reimbursed through the
+Internationalisation budget module;
+- travel and accommodation costs (including working visits, internships, and research stays) for the
+requested personnel positions are eligible within the Materiel budget module. Project-related services,
+such as (laboratory) analyses by a foreign partner, are also reimbursable within the Material budget
+module;
+- the Money follows Cooperation budget module gives the possibility to carry out part of the project at
+a knowledge institution with a public task outside the Netherlands, for example by appointing a
+temporary scientific employee at that knowledge institution.
+For more information, see the notes to the budget modules in section 7.2.
+Specific arrangements exist in this Call for proposals for the appointment of temporary scientific
+personnel in collaborative projects with researchers from Germany, Luxembourg and Flanders (ENWM-1-Weave, ENW-M-1-LUX). As a result of the lead agency principle underlying the agreements with
+Germany, Luxembourg and Flanders, it is not possible to use the Money follows Cooperation budget
+module for these countries/regions.
+Collaboration with Germany or Flanders
+NWO has made agreements with DFG and FWO to (co)fund bilateral projects according to the Weave
+principle. With NWO as lead agency, an ENW-M-1 proposal can be extended with at least one coapplicant from Germany or from Flanders, creating an ENW-M-1-Weave proposal. Trilateral proposal
+are excluded for the time being. The foreign component does not count in determining maximum
+budget size on the Dutch side. Funding can be requested for a maximum of 3 years in an ENW-M-1-
+Weave application with DFG as partner agency. Accordingly, it is not possible to apply for a PhD
+student on the Dutch side in an ENW-M-1-Weave application with Germany. Funding for a maximum
+of 4 years can be applied for in an ENW-M-1-Weave with FWO as partner agency.
+For submission conditions of the German co-applicant, for announcement see:
+https://www.dfg.de/en/news/news-topics/announcements-proposals
+For submission conditions of the Flemish co-applicant, see: https://www.fwo.be/en/supportprogrammes/all-calls/senior-researchersresearch-teams/weave-fwo-partner/ en
+https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/junior-andsenior-research-project/
+The conditions that apply if NWO acts as partner agency and DFG or FWO acts as lead agency are
+described in section 7.3.
+11
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+Collaboration with Luxembourg
+NWO has made agreements with the Fonds National de la Recherche (FNR) in Luxembourg about the
+joint funding of bilateral projects. Collaboration with a research group from Luxembourg is possible by
+expanding an ENW-M-1 proposal with the Luxembourgian equivalent of ENW-M-1, effectively creating
+a bilateral ENW-M-2 proposal (ENW-M-1-LUX). The foreign component does not count for determining
+the maximum budget size on the Dutch side. NWO considers the bilateral proposal as an ENW-M-2
+grant (proposal) and will assess the proposal in its entirety in consultation with the FNR. Please contact
+NWO (see Section 6.1.1) if you are considering this variant or if you would like to receive further
+information about this.
+Researchers affiliated to a Luxembourgian research group and involved in an ENW-M-1-LUX proposal
+must comply to the conditions of the FNR INTER programme (https://www.fnr.lu/fundinginstruments/inter/). Please note that agreements with FNR on cooperation with Luxembourg are not
+made according to the Weave principle. FNR therefore does not accept applications with a Dutch coapplicant in the INTER Programme.
+3.3 Preparing an application
+The steps involved in writing your application are:
+− download the application form from the NWO web application ISAAC or from the NWO web page
+(on the grant page of the funding instrument concerned);
+− complete the application form;
+− save the application form in ISAAC as a PDF file and upload it with any compulsory annexes;
+− fill in the requested information online in ISAAC.
+Compulsory annex(es):
+− budget (for the budget requested from NWO) - always compulsory;
+− budget (for the budget requested from the foreign partner (DFG, FNR, FWO)) - mandatory for
+bilateral application;
+− Declaration of appointment and project supervision - mandatory for applicant whose appointment
+does not cover the entire duration of the project and mandatory in case of application for
+preferential treatment;
+− Declaration of own contribution to investment - compulsory for ENW-M-1X proposal.
+Optional annex(es) only:
+− request for preferential treatment,
+− declaration of support from collaboration partners, without co-funding;
+− quotation from external party that provides (an indication of) the cost of the requested
+investment.
+The appendix must be drawn up in accordance with the template provided by NWO. Annexes must be
+uploaded in ISAAC separately from the application. The NWO-budget must be submitted in ISAAC as an
+Excel file. All of the other annexes, except for the budget, must be submitted as PDF files (without
+encryption). Any annexes other than those stated above are not permitted.
+You must write your application in English.
+An application can only be submitted via the web application ISAAC. Applications that are not
+submitted via ISAAC will not be taken into consideration. 
+12
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+As the main applicant, you are required to submit the application via your own personal ISAAC
+account.
+It is important to start with your application in ISAAC on time:
+− if you do not yet have an ISAAC account, then you should create this on time to prevent any
+possible registration problems;
+− any new organisations must also be added to ISAAC by NWO;
+− you also need to submit other details online.
+The call OC ENW-M, round 2024-2025 will be closed by the board of the NWO domain Science (domain
+board ENW) as soon as the 84th proposal in the 4th package has been taken into consideration (total
+336th proposal). In that case, it will be stated on the NWO funding page that the Open Competition
+ENW-M has been paused. From August 2025, applications can be submitted in the 2025-2026 round,
+for which the call for proposals will be published in due time. Applicants whose proposal in OC ENW-M
+round 2023-2024 was not substantively considered due to closure of the round, may submit an ENWM proposal in OC ENW-M round 2024-2025. This applies to all proposals received by NWO after the
+84th proposal in the 5th package of round 2023-2024 has been taken in consideration.
+Applications submitted after the deadline will not be taken into consideration by NWO.
+For technical questions, please contact the ISAAC helpdesk, see contact (Chapter 6).
+Does a main and/or co-applicant work at an organisation that is not included in the ISAAC database?
+You can report this via relatiebeheer@nwo.nl so that the organisation can be added. This will take
+several days. It is therefore important that you report this at least one week before the deadline.
+Applicants are expected to have informed the organization where they work about submitting the
+application and that the organisation accepts the grant conditions of this Call for proposals.
+3.3.1 Advice about substantive suitability
+For this Call for proposals, your application must fit in the NWO Domain Science, see Section 2.2. .
+Therefore, please consider well ahead of time whether your application meets the substantive criteria.
+In the event of any doubt, for instance because your application (partly) encompasses various domains
+and/or has a ZonMw character, then please get in touch with the contact person for this programme
+well in advance of the deadline. This person can advise you about the substantive connection between
+your application and this Call for proposals. Please note that the final choice is yours. For contact
+details please see Section 6.1.1.
+3.4 Conditions for submission
+3.4.1 Formal conditions for submission
+NWO will assess your application against the conditions listed below. Your application will only be
+admitted to the assessment procedure if it meets these conditions. After submitting your application,
+NWO requests you to be available to implement any possible administrative corrections so that you
+can (still) meet the conditions for submission.
+These conditions are:
+− the main applicant and optional co-applicant of an ENW-M-2 proposal meet the conditions stated
+in Section 3.1;
+− the application complies with the DORA guidelines as described in Section 4.1;
+13
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+− the application form is, after a possible request to make additions or changes, complete and filled
+out according to the instructions;
+− the application is submitted via the main applicant’s ISAAC account;
+− For ENW-M-1-Weave and ENW-M-1-LUX applications: the corresponding administrative
+submission has been submitted to the foreign partner (DFG, FWO or FNR) on time and meets the
+foreign partner's requirements;
+− the application is received before the deadline;
+− the application is written in English;
+− the application budget is drawn up in accordance with the conditions for this Call for proposals;
+− the proposed project has a duration of at most 6 years. Exception: a proposed ENW-M-1-Weave
+project with Germany or Flanders has a maximum duration of 3 (in the case of DFG) and 4 years
+(in the case of FWO), respectively;
+− all of the required annexes are, after a possible request to make additions or changes, complete
+and filled out according to the instructions.
+3.4.2 Parental leave
+For instruments in which no co-applicants can be entered, NWO offers applicants who take parental
+leave during the assessment period due to the arrival of a child, the possibility to make use of the
+'Compensation scheme for parental leave'. This scheme applies to this Call for proposals. For more
+information, please see Compensation scheme for parental leave.
+In case of ENW-M-1 or ENW-M-1X: If an applicant wants to make use of this compensations scheme,
+then a written request for this, supported by reasons, should be submitted to NWO via the contact
+person for this funding round. With this request, the applicant should provide all information that
+NWO needs to take a decision, including information from which it is clear that the applicant is
+hindered from providing input due to childcare leave.
+3.5 Conditions on granting
+The NWO Grant Rules 2017 and the Agreement on the Payment of Costs for Scientific Research are
+applicable to all applications.
+3.5.1 Compliance with the National Knowledge Security Guidelines
+World-class science can benefit from international cooperation. The National Knowledge Security
+Guidelines (hereafter: the Guidelines) helps knowledge institutions to ensure that international
+cooperation can take place securely. Knowledge security concerns the undesirable transfer of sensitive
+knowledge and technology that compromises national security; the covert influence of state actors on
+education and research, which jeopardises academic freedom and social safety; and ethical issues that
+may arise in cooperation with countries that do not respect fundamental rights.
+Applicants are responsible for ensuring that their project complies and will continue to comply with
+the Guidelines. By submitting an application, the applicant commits to the recommendations
+stipulated in these Guidelines. In the event of a suspected breach of the Guidelines in an application
+submitted to NWO for project funding, or in a project funded by NWO, NWO may ask the applicant to
+provide a risk assessment demonstrating that the recommendations in the Guidelines have been taken
+into consideration. If the applicant fails to comply with NWO’s request, or if the risk assessment is in
+apparent breach of the Guidelines, this may affect NWO’s grant award or decision-making process.
+NWO may also include further conditions in the award letter if appropriate. 
+14
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+The National Knowledge Security Guidelines can be found on the central government website at:
+Home | National Contact Point for Knowledge Security (loketkennisveiligheid.nl).
+3.5.2 Data management
+The results of scientific research must be replicable, verifiable and falsifiable. In the digital age, this
+means that, in addition to publications, research data must also be publicly accessible insofar as this is
+possible. NWO expects that research data resulting from NWO-funded projects will be made publicly
+available, as much as possible, for reuse by other researchers. “As open as possible, as closed as
+necessary” is the applicable principle in this respect. Researchers, at very least, are expected to make
+the data and/or non-numerical results that underlie the conclusions of the published work resulting
+from the project publicly available at the same time as the work’s publication. Any costs incurred for
+this can be included in the project budget. Researchers should explain how data emerging from the
+project will be dealt with based on the data management section in the proposal and the data
+management plan that is drawn up after funding is awarded.
+Data management Section
+The data management section is part of the proposal. Researchers are asked before the start of the
+research to consider how the data collected will be ordered and categorised so that this can be made
+publicly available. Measures will often already need to be taken, both during data genertation and as
+part of analysing the data, to make its subsequent storage and dissemination possible. If it is not
+possible to make all data from the project publicly available, for example due to reasons of privacy,
+ethics or valorisation, then the applicant is obliged to list the reasons for this in the data management
+section.
+The data management section in the proposal is not evaluated and will therefore not be weighed in
+the decision whether to award funding. However, both the referees and the committee can issue
+advice with respect to the data management section.
+3.5.3 Scientific integrity
+In accordance with the NWO Grant Rules 2017, the project that NWO funds must be carried out in
+accordance with the nationally and internationally accepted standards for scientific conduct as stated
+in the Netherlands Code of Conduct for Research Integrity (2018). By submitting the proposal, the
+applicant commits to this code. In the case of a (possible) violation of these standards during a project
+funded by NWO, the applicant should immediately inform NWO of this and should submit all relevant
+documents to NWO. More information about the code of conduct and the policy regarding research
+integrity can be found on the website: Scientific integrity | NWO.
+3.5.4 Ethical statement or licence
+The applicant is responsible for determining whether an ethical statement or licence is needed for the
+realisation of the proposed project. The applicant should ensure that this is obtained from the relevant
+institution or ethics committee on time. The absence or presence of an ethical statement or licence at
+the time of the application process has no effect on the assessment of the application. If the project is
+awarded funding, then the grant is issued under the condition that the necessary ethical statement or
+licence is obtained before the latest start date for the project. The project cannot start until NWO has
+received a copy of the ethical statement or licence.
+15
+Chapter 3: Conditions for applicants / Open Competition Domain Science-M
+3.5.5 Nagoya Protocol
+The Nagoya Protocol ensures an honest and reasonable distribution of benefits emerging from the use
+of genetic resources (Access and Benefit Sharing; ABS). Researchers who make use of genetic sources
+from the Netherlands or abroad for their research should familiarise themselves with the Nagoya
+Protocol (ABS Focal Point - ABS Focal Point). NWO assumes that researchers will take all necessary
+actions with respect to the Nagoya Protocol.

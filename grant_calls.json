@@ -1,11 +1,66 @@
 [
     {
-        "grant_name": "Open Technology Programme 2025",
-        "call_identifier": "NWO-OTP-2025",
-        "focus_area": "AI, Societal Impact",
-        "eligibility": "Placeholder: Refer to the 'Conditions for applicants' section.",
-        "deadline": "Placeholder: Refer to the 'Submission deadline(s)' section.",
-        "link": "docs/call1.pdf",
-        "status": "Open"
-    }
+  "grant_name": "Open Technology Programme 2025",
+  "call_identifier": "NWO-OTP-2025",
+  "link": "docs/Open Technology Programme 2025.pdf",
+  "focus_area": "Stimulate free and unrestricted applied and technical-scientific research within the scope of the NWO Domain Applied and Engineering Sciences (AES).",
+  "eligibility": "Researchers with tenured or tenure-track positions at Dutch universities, university medical centers, or affiliated institutes such as KNAW, NWO, and others specified in the eligibility criteria.",
+  "deadline": "Applications accepted from 13 January 2025 until 12 December 2025, or until the grant ceiling is reached.",
+  "objectives": "To promote research that leads to societal and/or scientific impact, facilitating collaboration with public and private knowledge users to maximize research application and impact opportunities.",
+  "funding_amount": "Maximum €950,000 per project, or €1,050,000 for projects with an investment character, with mandatory co-funding for projects exceeding €700,000.",
+  "keywords": [
+    "free and unrestricted research",
+    "applied research",
+    "technical-scientific research",
+    "societal impact",
+    "scientific impact",
+    "collaboration with knowledge users",
+    "engineering sciences",
+    "application-oriented mathematics",
+    "natural sciences",
+    "medical and life sciences",
+    "energy transition",
+    "health and care",
+    "climate change",
+    "digital and smart technologies",
+    "infrastructure and transport",
+    "collaborative impact",
+    "knowledge utilization",
+    "cross-sectoral collaboration"
+  ]
+},
+
+{
+  "grant_name": "Open Competition Domain Science-M (2024-2025)",
+  "call_identifier": "OC ENW-M-2024-2025",
+  "link": "docs/Call for proposals OC ENW-M ronde 24-25_EN_nov2024.pdf",
+  "focus_area": "Curiosity-driven fundamental scientific research with societal and scientific impact.",
+  "eligibility": "Researchers with tenured or tenure-track positions at Dutch universities, university medical centers, or affiliated institutes such as KNAW, NWO, and others, including some international collaborations.",
+  "deadline": "Continuous submission from 6 August 2024 to 31 July 2025, with specific deadlines for international proposals.",
+  "objectives": "To support excellent, challenging, and innovative research lines in mono-disciplinary, multidisciplinary, and interdisciplinary contexts, fostering both scientific advancement and societal solutions.",
+  "funding_amount": "Maximum funding per project ranges from €400,000 to €800,000, with additional investment options up to €500,000 for specific proposals.",
+  "keywords": [
+    "curiosity-driven research",
+    "fundamental science",
+    "scientific impact",
+    "societal impact",
+    "earth sciences",
+    "astronomy",
+    "chemistry",
+    "computer science",
+    "life sciences",
+    "physics",
+    "mathematics",
+    "method development",
+    "instrumentation development",
+    "energy transition",
+    "health and care",
+    "climate change",
+    "interdisciplinary research",
+    "international collaboration",
+    "knowledge utilization",
+    "cross-border research"
+  ]
+}
+
 ]
