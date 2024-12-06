@@ -3,13 +3,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Fetch the data from the JSON file
   fetch('grant_calls.json')
-    .then(response => response.json())
-    .then(data => {
-      console.log("Loaded grant calls:", data); // Log loaded data for debugging
-      grantCalls = data; // Populate the grantCalls array
-      document.getElementById('searchButton').disabled = false; // Enable search button
-    })
-    .catch(error => console.error("Error loading grant calls:", error));
+  .then(response => response.json())
+  .then(data => {
+    console.log("Grant calls loaded:", data); // Debug log to confirm JSON data is loaded
+    grantCalls = data; // Assign the data to the global variable
+    document.getElementById('searchButton').disabled = false; // Enable search button
+  })
+  .catch(error => console.error("Error loading grant calls:", error));
 
   // Add event listener for the "Enter" key in the search input
   document.getElementById('search').addEventListener('keypress', (event) => {
