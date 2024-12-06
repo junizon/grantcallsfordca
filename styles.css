@@ -1,0 +1,62 @@
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Header styling */
+h1 {
+  color: #007bff;
+  text-align: center;
+}
+
+/* Input and button styling */
+input[type="text"] {
+  padding: 10px;
+  width: 300px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Results container styling */
+#results {
+  margin-top: 20px;
+}
+
+.call {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.call h3 {
+  margin-top: 0;
+  color: #007bff;
+}
+
+.call a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.call a:hover {
+  text-decoration: underline;
+}
