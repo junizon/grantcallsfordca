@@ -1,2 +1,2 @@
 # grantcallsfordca
-"grantcallsfordca" provides summaries and keywords of grant calls that fit my department. Not for a general use.
+Grantcallsfordca provides summaries and keywords for grant calls relevant to my department. It is not intended for general use.
