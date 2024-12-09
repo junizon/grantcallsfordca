@@ -1,0 +1,64 @@
+[
+  {
+    "title": "NWO-Talent Programme Vidi 2024",
+    "deadline_pre-proposal": "5 November 2024 (14:00 CET)",
+    "deadline_full-proposal": "8 April 2025 (14:00 CEST)",
+    "funding_amount": "Up to €850,000 per project for a maximum duration of five years.",
+    "domains": "Science, SSH, AES, ZonMw.",
+    "eligibility": "Researchers with a PhD obtained between 1 October 2016 and 1 October 2024 (extensions possible for specific circumstances, e.g., parental leave, illness).",
+    "restrictions": "Applicants may only submit one Vidi application per calendar year. A maximum of two Vidi submissions per applicant is allowed in their career.",
+    "unique_conditions": "New pilot program prioritizes funding for female researchers rated as 'very good'.",
+    "financial_constraints": "No double funding from NWO or other grants; co-funding cannot exceed 49% of total project costs.",
+    "eligible_costs": "Personnel, consumables, small investments; data sharing and management costs.",
+    "call_document": "docs/Call for Proposals Vidi 2024 EN_def_v3.pdf",
+    "website": "https://www.nwo.nl/en/calls/nwo-talent-programme-vidi-social-sciences-and-humanities-ssh-2024",
+    "category": "Grant Info",
+    "start_date": "2024-01-01",
+    "end_date": "2025-04-08"
+  },
+  {
+  "title": "NWO Open Technology Programme 2025",
+  "submission_period": "13 January 2025 to 12 December 2025, unless the grant ceiling of €25.9M is reached earlier.",
+  "funding_amount": "Up to €950,000 per project (€1,050,000 for projects with an investment character).",
+  "domains": "Applied and Engineering Sciences (AES).",
+  "eligibility": "Researchers with tenured or tenure-track positions at Dutch universities, university medical centers, and affiliated research institutes, including KNAW and NWO institutes.",
+  "restrictions": "Mandatory co-funding if total project costs exceed €700,000. Applications must comply with the National Knowledge Security Guidelines.",
+  "unique_conditions": "User committee required with at least 4 users (2 non-academic); adherence to DORA principles.",
+  "financial_constraints": "NWO funding cannot exceed 49% of total project costs if co-funding is provided. Co-funding of 25% is required for costs exceeding €700,000.",
+  "eligible_costs": "Personnel, consumables, small investments, data management, and sharing costs.",
+  "call_document": "docs/Open Technology Programme 2025.pdf",
+  "website": "https://www.nwo.nl/en/calls/open-technology-programme-2025",
+  "category": "Grant Info",
+  "start_date": "2025-01-13",
+  "end_date": "2025-12-12"
+},
+{
+  "title": "Open Competition Domain Science-M (2024-2025)",
+  "submission_period": "6 August 2024 to 31 July 2025 (14:00 CEST), except ENW-M-1-Weave proposals with FWO as partner agency, which are from 1 December 2024 to 28 February 2025 (14:00 CET).",
+  "funding_amount": "Up to €400,000 for ENW-M-1 proposals, €800,000 for ENW-M-2 proposals, and €150,000 to €500,000 for investments under ENW-M-1X.",
+  "domains": "Earth sciences, astronomy, chemistry, computer science, life sciences, physics, and mathematics.",
+  "eligibility": "Full, associate, and assistant professors or equivalent researchers with tenured or tenure-track positions at Dutch universities, university medical centers, or affiliated institutes. Certain tenure-track researchers with guaranteed positions may also apply.",
+  "restrictions": "Mandatory waiting period of 12 months before submitting a new ENW-M proposal if previously considered. ENW-M-1 and ENW-M-1X allow only one main applicant with no co-applicants. ENW-M-2 allows one co-applicant with complementary expertise.",
+  "unique_conditions": [
+    "Mandatory co-funding of 25% for investments exceeding €150,000.",
+    "Bilateral collaborations allowed with Germany, Flanders, or Luxembourg under the Weave and LUX principles.",
+    "Preferential treatment available for starting researchers within the first two years of their career."
+  ],
+  "financial_constraints": "NWO funding cannot exceed 49% of total project costs for modules like Money follows Cooperation.",
+  "eligible_costs": [
+    "Personnel (PhD, postdoc, non-scientific staff).",
+    "Material costs (€15,000 per year per FTE).",
+    "Investments (€150,000 to €500,000).",
+    "Knowledge utilization (€25,000).",
+    "Internationalization (€25,000)."
+  ],
+  "call_document": "docs/Call for proposals OC ENW-M ronde 24-25_EN_nov2024.pdf",
+  "website": "https://www.nwo.nl/en/calls/open-competition-domain-science-m-2024/2025",
+  "category": "Grant Info",
+  "start_date": "2024-08-06",
+  "end_date": "2025-07-31"
+}
+
+
+
+]

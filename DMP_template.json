@@ -1,0 +1,14 @@
+[
+  {
+    "title": "NWO Data Management Plan_Template",
+    "description": "Guidelines and templates for creating data management plans for NWO projects.",
+    "category": "Templates",
+    "document": "docs/NWO-DMP-Template-version-September-2020.docx"
+  },
+  {
+    "title": "NWO Data Management Plan_Example",
+    "description": "An example for DCA researchers",
+    "category": "Templates",
+    "document": "docs/DMP_ExampleByJune.docx"
+  }
+]
