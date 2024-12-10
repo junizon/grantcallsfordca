@@ -1,13 +1,558 @@
 [
   {
-    "title": "General Writing Tips",
-    "description": "Ensure clarity and conciseness in your proposals. Avoid jargon and tailor your proposal to the call.",
-    "category": "Tips",
-    "document": "docs/Open Technology Programme 2025.pdf"
+  "title": "Instructional Overview: Lessons from ERC Starting Grant Winners",
+  "description": "Insights from ERC Starting Grant winners highlight the importance of innovative yet feasible proposals, clear communication, and leveraging feedback from mentors and peers. These researchers stress persistence, passion, and thorough preparation as key to crafting transformative projects that resonate with diverse review panels.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for ERC Starting Grant Applications",
+    "content": [
+      "Craft high-risk, high-gain projects with innovative and feasible ideas that reflect your unique expertise.",
+      "Write clearly and accessibly for both experts and non-specialists. Use diagrams to clarify objectives.",
+      "Start early and gather solid preliminary data to support your proposal.",
+      "Seek constructive feedback from peers, mentors, and institutional resources.",
+      "Practice with mock panels and diverse audiences to prepare for challenging interview questions.",
+      "Leverage interdisciplinary insights and emphasize the societal impact of your project.",
+      "Show passion and persistence, making your project an embodiment of your research identity. (grant)"
+    ]
   },
-  {
-    "title": "Budget Tips",
-    "description": "Provide a realistic budget breakdown with justifications for each cost.",
-    "category": "Tips"
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "In conversation with ERC starting grant winner Aurelien Bustin",
+        "citation": "Nature Cardiovascular Research, Volume 3, January 2024, 13–14. https://doi.org/10.1038/s44161-023-00394-9",
+        "availability": "This article can be obtained through our library."
+      },
+      {
+        "title": "In conversation with ERC starting grant winner Gabriele Schiattarella",
+        "citation": "Nature Cardiovascular Research, Volume 3, January 2024, 3. https://doi.org/10.1038/s44161-023-00410-y",
+        "availability": "This article can be obtained through our library."
+      },
+      {
+        "title": "In conversation with ERC starting grant winner Harsha Devalla",
+        "citation": "Nature Cardiovascular Research, Volume 3, January 2024, 11–12. https://doi.org/10.1038/s44161-023-00398-5",
+        "availability": "This article can be obtained through our library."
+      },
+      {
+        "title": "In conversation with ERC starting grant winner Paola Cattaneo",
+        "citation": "Nature Cardiovascular Research, Volume 3, January 2024, 8–10. https://doi.org/10.1038/s44161-023-00395-8",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
   }
+},
+
+ {
+  "title": "The Dos and Don'ts of Grant Writing",
+  "description": "This article outlines key strategies for grant success, emphasizing clarity, early preparation, and effective communication. It also highlights the importance of leveraging resources like institutional support and grant-writing workshops to navigate the competitive funding landscape.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Grant Writing",
+    "content": [
+      "Engage with program officers early to understand the scope and expectations of funding opportunities.",
+      "Ensure your proposal aligns with the priorities of the funding body and addresses their specific goals.",
+      "Maintain clarity and focus in your writing, avoiding unnecessary technical jargon.",
+      "Pay attention to formatting, grammar, and consistency in all sections of the application.",
+      "Consider the choice of grant type carefully based on your career stage and objectives.",
+      "Seek feedback from mentors or colleagues to refine your proposal before submission.",
+      "Use institutional and external resources like grant-writing workshops to enhance your skills. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "The Dos and Don'ts of Grant Writing",
+        "citation": "Diane Gershon, Nature, Volume 385, February 1997, Pages 658–659.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "A Winning Proposal",
+  "description": "This article shares insights from European researchers and institutions on how to write competitive grant proposals. It underscores the value of early training, mentorship, and feedback, alongside clear communication and structured application processes.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Writing a Winning Proposal",
+    "content": [
+      "Start early and follow funding body instructions carefully.",
+      "Seek mentorship from experienced researchers to guide your proposal development.",
+      "Participate in formal grant-writing courses to gain structured insights.",
+      "Emphasize the significance and novelty of your research in the proposal.",
+      "Simplify technical language to make the proposal accessible to diverse reviewers.",
+      "Share drafts with colleagues and non-specialists to gather feedback on clarity and coherence.",
+      "Develop skills through practical exercises, such as forming review boards to critique sample proposals. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "A Winning Proposal",
+        "citation": "Karen Kreeger, Nature, Volume 426, November 2003, Pages 102–103.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "Writing a First Grant Proposal",
+  "description": "This commentary highlights key advice from a workshop organized by the Society for Leukocyte Biology (SLB) aimed at junior investigators. It provides insights into navigating the NIH grant application process and composing compelling, fundable proposals.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Writing a First Grant Proposal",
+    "content": [
+      "Start early and seek guidance from mentors and institutional resources.",
+      "Engage with NIH program officers and use available tools to understand the grant process.",
+      "Write clearly and avoid jargon, tailoring the proposal for reviewers who may not be field experts.",
+      "Limit Specific Aims to one page, with clear objectives and anticipated outcomes.",
+      "Include preliminary data to demonstrate feasibility and support key hypotheses.",
+      "Draft a compelling Biographical Sketch that highlights relevant expertise.",
+      "Incorporate feedback from colleagues and mentors to refine your proposal.",
+      "Understand the NIH scoring criteria, including significance, innovation, and impact.",
+      "Design a project with feasible experimental approaches and contingency plans. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Writing a First Grant Proposal",
+        "citation": "Julian Gomez-Cambronero, Lee-Ann H. Allen, Martha K. Cathcart, Louis B. Justement, Elizabeth J. Kovacs, Kenneth R. McLeish, and William M. Nauseef. Nature Immunology, Volume 13, February 2012, Pages 105–108.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "Quest for the Holy Grant",
+  "description": "This article provides practical advice on exploring alternative funding sources for research, focusing on corporate, private, and independent foundations. It emphasizes creative approaches to grant-seeking, including leveraging databases, annual reports, and personal networks.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Alternative Grant-Seeking",
+    "content": [
+      "Explore annual reports from organizations in your research area to identify potential funders.",
+      "Ask current or past grant-giving foundations for recommendations or introductions to other funders.",
+      "Utilize directories like Foundation Directory Online, using both specific keywords and broad categories to cast a wide net.",
+      "Search beyond geographic limits, as some foundations fund research far from their physical location.",
+      "Look for acknowledgments in journal articles and institution newsletters to trace funders in your field.",
+      "For 'no unsolicited proposals' foundations, send concise letters focusing on the urgency and significance of your work.",
+      "Check your institution's funding history in the development or finance office for potential leads. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Quest for the Holy Grant",
+        "citation": "Ingrid Eisenstadter, Nature, Volume 534, June 2016, Pages 729–730.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "Secrets to Writing a Winning Grant",
+  "description": "This article compiles advice from experienced scientists to help researchers improve their grant-writing skills. It offers strategies for avoiding common pitfalls, aligning proposals with funders' goals, and handling rejections constructively.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Writing a Winning Grant",
+    "content": [
+      "Learn from both successful and rejected grants to refine your skills.",
+      "Research funders extensively to understand their priorities and align your proposal accordingly.",
+      "Start with a clear and concise pitch that highlights the importance of your project and your qualifications.",
+      "Use plain language and avoid jargon, making your proposal accessible to reviewers outside your field.",
+      "Pay attention to formatting, using white space, headings, and illustrations to enhance readability.",
+      "Avoid common deal-breakers like spelling and grammatical errors or exceeding word limits.",
+      "Focus on realistic project goals that align with the scope and timeline of the funding opportunity.",
+      "Incorporate feedback from colleagues, mentors, and reviewers to improve your proposal.",
+      "Seek out training in science communication to effectively convey the significance of your research.",
+      "Treat rejections as opportunities to gather feedback, revise your approach, and try again. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Secrets to Writing a Winning Grant",
+        "citation": "Emily Sohn, Nature, Volume 577, January 2020, Pages 133–135.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "The Hunt for the Lesser-Known Funding Source",
+  "description": "This article explores alternative strategies for finding research funding outside traditional government grants. It highlights the value of smaller grants, international funding, professional societies, and creative approaches like crowdfunding to support academic projects.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Alternative Funding",
+    "content": [
+      "Explore international funding opportunities and leverage professional networks abroad.",
+      "Search lesser-known grant directories like PIVOT, SPIN, and Grant Forward for unique funding options.",
+      "Collaborate with your institution’s research-development office for tailored funding guidance.",
+      "Engage with professional societies for small grants, travel awards, and networking opportunities.",
+      "Leverage personal networks and administrators at other institutions to discover additional grants.",
+      "Attend conferences and proactively network with funders to build connections for future funding.",
+      "Maintain visibility through personal websites and active participation in research communities.",
+      "Consider crowdfunding platforms like Experiment.com or SciFundChallenge.org for innovative projects.",
+      "Start with smaller grants to build a strong funding résumé and demonstrate prior performance.",
+      "Focus on creative pitches that resonate with funders, especially for unconventional funding sources. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "The Hunt for the Lesser-Known Funding Source",
+        "citation": "Elie Dolgin, Nature, Volume 570, June 2019, Pages 127–129.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "Working Scientist Podcast: Grant Application Essentials",
+  "description": "This podcast episode provides expert advice on crafting successful grant applications and preparing for oral presentations. It emphasizes the importance of detail, practicality, and visual communication to create compelling proposals.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Grant Applications and Presentations",
+    "content": [
+      "Include granular details in your grant proposal, such as methodologies, risks, and backup plans.",
+      "Focus on feasibility and ensure you outline how you will execute your project step by step.",
+      "Think like a reviewer: make your proposal accessible, logical, and easy to navigate.",
+      "Use bold text sparingly to highlight important points and employ consistent color schemes in visuals.",
+      "Create a graphical abstract or executive summary to provide a clear overview before diving into details.",
+      "Prepare thoroughly for oral presentations by updating your proposal with recent developments.",
+      "Practice presenting to anticipate challenging questions and refine your communication style.",
+      "Use mock panels or seek advice from colleagues experienced with interviews to improve your delivery.",
+      "Anticipate potential weaknesses in your proposal and address them proactively during interviews.",
+      "Leverage science storytelling techniques to make your project memorable and engaging. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Working Scientist Podcast: Grant Application Essentials",
+        "citation": "Julie Gould, Nature Careers Podcast, 18 January 2019.",
+        "availability": "This podcast episode and transcript can be accessed through our library or online."
+      }
+    ]
+  }
+},
+
+{
+  "title": "What to Do When Your Grant Is Rejected",
+  "description": "This article offers practical advice on how to recover from grant rejections and improve future applications. It emphasizes resilience, strategic planning, and leveraging feedback to refine proposals.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Dealing with Grant Rejections",
+    "content": [
+      "Anticipate rejection as part of the process and have a plan to cope emotionally.",
+      "Allow yourself time to recover and process the rejection before reassessing your proposal.",
+      "Share setbacks with peers and mentors to gain emotional support and constructive advice.",
+      "Seek feedback from funding organizations and program directors to identify weaknesses.",
+      "Avoid taking feedback personally; focus on addressing substantive issues in your proposal.",
+      "Revise applications holistically, incorporating new data, techniques, or collaborations.",
+      "Consider alternative funding sources or funders if the original is not a good fit.",
+      "Develop a portfolio of smaller grants to diversify funding and increase resilience.",
+      "Leverage industrial partnerships or crowdfunding as additional funding opportunities.",
+      "Take time to refine your revised application rather than rushing to resubmit. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "What to Do When Your Grant Is Rejected",
+        "citation": "James Mitchell Crow, Nature, Volume 578, February 2020, Pages 477–479.",
+        "availability": "This article can be obtained through our library."
+      }
+    ]
+  }
+},
+
+{
+  "title": "The Power of a Budget Plan in Grant Writing",
+  "description": "This article emphasizes the critical role of a detailed budget plan in successful grant applications. It highlights how a coherent financial outline supports both applicants and reviewers by demonstrating the feasibility and organization of the proposed project.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Crafting a Budget Plan",
+    "content": [
+      "Create a detailed budget plan outlining all expected expenses, categorized as direct and indirect costs.",
+      "Use the budget plan to establish a project timeline and maintain discipline throughout the research process.",
+      "Justify all costs clearly, linking them to the project’s objectives and explaining their necessity.",
+      "Adapt your budget to external factors, such as travel restrictions or equipment needs, to ensure project feasibility.",
+      "Highlight cost-saving measures, such as leveraging partnerships or reallocating funds strategically.",
+      "Include direct costs (e.g., salaries and research materials) and indirect costs (e.g., administrative expenses) for a comprehensive overview.",
+      "Consult mentors or experts to refine the budget and align it with funder expectations.",
+      "Use the budget plan to identify potential challenges and prepare solutions proactively. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "The Power of a Budget Plan in Grant Writing",
+        "citation": "Ethan Wilk, Nature Career Column, 14 January 2021.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+
+
+{
+  "title": "Three Questions to Address Rigour and Reproducibility Concerns in Your Grant Proposal",
+  "description": "This article provides a practical framework to help researchers address rigour and reproducibility in grant proposals. It emphasizes the importance of justifying scientific choices and minimizing methodological biases to reassure funders.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Addressing Rigour and Reproducibility",
+    "content": [
+      "Identify the essential weaknesses or limitations in your science and address them explicitly in your proposal.",
+      "Explain how your chosen methods minimize bias and overcome these limitations.",
+      "Justify the adequacy of your methods by referencing peer-reviewed studies or widely accepted practices in your field.",
+      "Provide clear, detailed descriptions of your experimental design to reassure reviewers of its fidelity and transparency.",
+      "Use specific examples to demonstrate rigorous practices, such as benchmarking new methods against gold-standard datasets.",
+      "Examine journal requirements for reporting protocols and reproducibility to guide your proposal's rigor.",
+      "Seek feedback from peers outside your research group to identify overlooked limitations or assumptions.",
+      "Incorporate controls and justify their relevance to your research question. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Three Questions to Address Rigour and Reproducibility Concerns in Your Grant Proposal",
+        "citation": "Jennifer L. Wilson and Crystal M. Botham, Nature, Volume 596, August 2021, Pages 609–610.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "Seven Questions to Ask Before Pursuing a New Grant",
+  "description": "This article provides a framework for evaluating whether to pursue a grant application. It highlights key considerations, such as eligibility, alignment with funder priorities, workload, and potential learning opportunities, to help researchers use their time wisely.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Questions to Evaluate Grant Opportunities",
+    "content": [
+      "Are you eligible? Verify residency, degree, and position requirements before proceeding.",
+      "Do you do the kind of work the funder wants to support? Align your research goals with the funder’s priorities.",
+      "How much work will this require? Assess the application requirements and weigh time investment against potential reward.",
+      "How competitive will this be? Research success rates and connect with past awardees to gauge competitiveness.",
+      "Does this announcement fit your priorities? Prioritize grants that align with your career goals and research interests.",
+      "Does this budget match what you’re interested in doing? Ensure the funding level supports your intended scope of work and collaborations.",
+      "Will this be a learning experience, even if you’re not funded? Pursue grants that allow you to refine your ideas and strengthen future applications. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Seven Questions to Ask Before Pursuing a New Grant",
+        "citation": "Betty Lai, Nature Career Column, 14 July 2022.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "A Funding Adviser’s Guide to Writing a Great Grant Application",
+  "description": "This article presents a comprehensive checklist for crafting effective grant applications, based on insights from a senior research funding adviser. It highlights common mistakes and provides actionable strategies to improve success rates.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Writing a Great Grant Application",
+    "content": [
+      "Check the grant’s scope to ensure your research aligns with the funder’s priorities.",
+      "Read and follow the grant guidelines meticulously to avoid eligibility and formatting errors.",
+      "Write with assessors in mind, making your proposal easy to understand and score.",
+      "Avoid assuming reviewers are experts in your field; provide clear explanations and well-curated references.",
+      "Start early to allow time for thorough revisions and feedback.",
+      "Polish your CV and tailor it to emphasize achievements relevant to the grant.",
+      "Demonstrate the broader impact of your research, including societal benefits and alignment with policies.",
+      "Address diversity, equity, and inclusion (DEI) authentically within your research project.",
+      "Use the funder’s templates and adhere to submission rules to ensure fairness and compliance.",
+      "Prepare a realistic budget that aligns with funder requirements and ensures project feasibility.",
+      "Reread and learn from rejected proposals to strengthen future applications.",
+      "Leverage your institution’s research office for expertise and support in grant preparation. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "A Funding Adviser’s Guide to Writing a Great Grant Application",
+        "citation": "Mireille Consalvey, Nature Career Column, 28 September 2023.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "Grant-Writing Rituals",
+  "description": "This article explores the diverse rituals and strategies researchers use to navigate the challenging task of grant writing. It highlights routines that enhance productivity and provide insights on crafting compelling applications.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Tips for Effective Grant Writing",
+    "content": [
+      "Celebrate successes to emphasize the importance of grant-writing efforts and motivate teams.",
+      "Start with a clear vision of the scientific question and refine practical details iteratively.",
+      "Dedicate specific hours daily to grant writing, especially during peak productivity times.",
+      "Organize proposals into manageable sections, starting with specific aims and goals.",
+      "Study successful and rejected grant proposals to understand differences and improve skills.",
+      "Seek feedback from peers, mentors, and institutional grant offices for valuable input.",
+      "Use routines and rituals, like preparing a specific environment or setting goals, to foster focus and creativity.",
+      "Consider high-risk, high-return projects as opportunities to think big and challenge conventional ideas.",
+      "Edit meticulously to ensure clarity, coherence, and adherence to grant guidelines. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Grant-Writing Rituals",
+        "citation": "Vivien Marx, Nature Methods, Volume 20, July 2023, Page 947.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+
+{
+  "title": "ChatGPT Use Shows That the Grant-Application System Is Broken",
+  "description": "This article critiques the inefficiencies of the grant application process, emphasizing how AI tools like ChatGPT reveal systemic flaws. It questions the necessity of excessive documentation and advocates for streamlined, focused applications.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Takeaways on Grant Application Processes",
+    "content": [
+      "Grant applications often require excessive documentation that may not contribute to assessing scientific merit.",
+      "Panel reviewers primarily focus on a few aspects: alignment with funder goals, scientific quality, and expertise of applicants.",
+      "AI tools like ChatGPT can efficiently handle repetitive sections, saving time and highlighting inefficiencies.",
+      "The widespread use of AI in grant writing raises questions about the purpose of traditional requirements.",
+      "Funding bodies should streamline application processes to prioritize essential content and reduce unnecessary workload. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "ChatGPT Use Shows That the Grant-Application System Is Broken",
+        "citation": "Juan Manuel Parrilla, Nature Career Column, 9 November 2023, Page 443.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "How Screenwriting Can Help Your Grant Writing",
+  "description": "This article draws parallels between screenwriting and grant writing, emphasizing the importance of crafting a strong 'hook' to engage reviewers. By using techniques such as inciting incidents and levels of awareness, grant writers can make their proposals more compelling and impactful.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Takeaways on Using Screenwriting Techniques for Grant Writing",
+    "content": [
+      "A strong hook in a grant proposal creates emotional urgency and raises a key question to engage reviewers.",
+      "Understand the levels of reviewer awareness to tailor your hook effectively: from introducing the problem (Level 1) to convincing reviewers of your team’s capability (Level 4).",
+      "Examples of effective hooks include emotionally charged statements or questions that resonate universally.",
+      "Ensure clarity by assuming minimal baseline knowledge to avoid confusing or alienating reviewers.",
+      "Draw inspiration from screenwriting principles like the 'inciting incident' to structure your narrative for maximum engagement. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "How Screenwriting Can Help Your Grant Writing",
+        "citation": "Christine W. Hartmann, Nature Career Column, 7 June 2023.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "Most Scientists Don’t Enjoy Writing Grants. Here’s How to Change That",
+  "description": "This article explores strategies to make grant writing less burdensome and more enjoyable by fostering community, reframing the purpose of proposals, and adopting structured writing practices.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Takeaways on Improving the Grant-Writing Experience",
+    "content": [
+      "Reconnect with your purpose: Use grant writing as an opportunity to revisit your research goals and align them with your broader impact aspirations.",
+      "Think like a writer: Commit to a regular writing routine and break complex proposals into manageable parts to reduce overwhelm.",
+      "Build community: Join or create writing groups to foster accountability, share feedback, and celebrate progress.",
+      "Embrace feedback as a way to enhance your proposal's clarity and impact.",
+      "Reframe grant writing as a creative process that allows full control over the ideas you pursue and collaborate on. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "Most Scientists Don’t Enjoy Writing Grants. Here’s How to Change That",
+        "citation": "Courtney Peña, Amber R. Moore & Crystal M. Botham, Nature Career Column, 5 December 2023.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "How to Win Funding to Talk About Your Science",
+  "description": "This article highlights the challenges and opportunities in securing funding for science communication. It discusses the value of outreach work and offers practical advice on finding funding, demonstrating impact, and building collaborations to make science accessible to diverse audiences.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Takeaways on Funding Science Communication",
+    "content": [
+      "Explore funding opportunities from professional societies, philanthropic organizations, and national science foundations.",
+      "Incorporate science communication activities into broader impacts sections of grant proposals to secure partial funding.",
+      "Be clear about the objectives, audience, and format of your science communication project to improve its feasibility and effectiveness.",
+      "Demonstrate impact using both qualitative and quantitative data, such as social media analytics, attendance records, or testimonials.",
+      "Build partnerships with organizations or communities to enhance the credibility and reach of your outreach efforts.",
+      "View science communication as integral to your research work, as it can enhance both your science and your engagement with diverse audiences. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "How to Win Funding to Talk About Your Science",
+        "citation": "Hannah Docter-Loeb, Nature Career Column, 22 August 2024.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+},
+{
+  "title": "What Steps to Take When Funding Starts to Run Out",
+  "description": "This article explores strategies for researchers facing funding shortages, emphasizing bridge funding, careful budgeting, and diversifying funding sources. It also highlights the systemic challenges and competitive nature of research funding.",
+  "category": "Tips",
+  "key_tips": {
+    "title": "Key Takeaways on Managing Funding Gaps",
+    "content": [
+      "Seek bridge funding from institutions to sustain lab operations and retain key staff during funding gaps.",
+      "Explore creative funding opportunities, such as commercialization offices or partnerships for translational research.",
+      "Plan ahead by applying for grants with staggered expiration dates and setting aside a rainy-day fund from existing grants.",
+      "Collaborate with team science initiatives to access larger and longer-term funding opportunities.",
+      "Avoid underpricing research proposals, as it can lead to faster depletion of funds and misrepresentation of actual research costs.",
+      "Attend grant-writing workshops and tailor applications to different funding agencies for a broader reach. (grant)"
+    ]
+  },
+  "references": {
+    "title": "Referenced Articles",
+    "articles": [
+      {
+        "title": "What Steps to Take When Funding Starts to Run Out",
+        "citation": "Neil Savage, Nature Career Column, 6 June 2024.",
+        "availability": "This article can be obtained through our library or online."
+      }
+    ]
+  }
+}
+  
 ]

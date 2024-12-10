@@ -120,10 +120,21 @@ html {
   background-color: #f4f4f9;
 }
 
-#footer-photo {
-  width: 60px;
-  height: auto;
-  margin-left: 10px;
-  vertical-align: middle;
+
+#footer-photo-start,
+#footer-photo-end {
+  width: 30px; /* Set size */
+  height: auto; /* Maintain aspect ratio */
+  vertical-align: middle; /* Align with text */
   border-radius: 50%; /* Makes the photo round */
 }
+
+#footer-photo-start {
+  margin-right: 10px; /* Space after the start photo */
+}
+
+#footer-photo-end {
+  margin-left: 10px; /* Space before the end photo */
+}
+
+

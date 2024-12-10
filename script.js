@@ -34,6 +34,7 @@ Promise.all(
     this.field('title');
     this.field('deadline_pre-proposal');
     this.field('deadline_full-proposal');
+    this.field('deadline');
     this.field('submission_period');
     this.field('funding_amount');
     this.field('domains');
@@ -45,8 +46,15 @@ Promise.all(
     this.field('call_document');
     this.field('website');
     this.field('category');
+    this.field('type');
     this.field('description');   // Add description for DMP and Writing Tips
-    this.field('tips');          // Add tips for Writing Tips
+    this.field('document');     // Add document field for DMP Templates
+    this.field('key_tips.title'); // Add key tips title
+    this.field('key_tips.content'); // Add key tips content
+    this.field('references.title'); // Add references title
+    this.field('references.articles.title'); // Add article titles
+    this.field('references.articles.citation'); // Add article citations
+    this.field('references.articles.availability'); // Add availability notes
 
     documents.forEach(doc => this.add(doc));
   });
@@ -54,7 +62,7 @@ Promise.all(
 });
 
 // Search function
-function search(query, startDateInput, endDateInput) {
+function search(query) {
   if (!lunrIndex) {
     console.error('Search index is not ready yet.');
     return [];
@@ -93,10 +101,8 @@ function search(query, startDateInput, endDateInput) {
 // Display search results
 document.getElementById('search-button').addEventListener('click', () => {
   const query = document.getElementById('search-input').value.trim();
-  const startDateInput = document.getElementById('start-date').value;
-  const endDateInput = document.getElementById('end-date').value;
 
-  const results = search(query, startDateInput, endDateInput);
+  const results = search(query);
 
   const resultsDiv = document.getElementById('search-results');
   resultsDiv.innerHTML = ''; // Clear previous results before displaying new ones
@@ -120,13 +126,12 @@ document.getElementById('search-button').addEventListener('click', () => {
     titleButton.style.width = '100%';
     titleButton.style.padding = '10px';
     titleButton.style.border = 'none';
-    titleButton.style.backgroundColor = 'transparent'; // Transparent background
-    titleButton.style.color = '#166b8a'; // Blue text color for visibility
+    titleButton.style.backgroundColor = 'transparent';
+    titleButton.style.color = '#166b8a';
     titleButton.style.textAlign = 'left';
     titleButton.style.cursor = 'pointer';
     titleButton.style.fontSize = '1.2em';
 
-    // Content div to hold the detailed result
     const contentDiv = document.createElement('div');
     contentDiv.style.display = 'none';
     contentDiv.style.padding = '15px';
@@ -138,6 +143,8 @@ document.getElementById('search-button').addEventListener('click', () => {
     const currentDate = new Date();
     const preProposalDate = result['deadline_pre-proposal'] ? new Date(result['deadline_pre-proposal']) : null;
     const fullProposalDate = result['deadline_full-proposal'] ? new Date(result['deadline_full-proposal']) : null;
+    const deadlineDate = result['deadline'] ? new Date(result['deadline']) : null;
+    
 
     let preProposalColor = '';
     if (preProposalDate && !isNaN(preProposalDate)) {
@@ -150,10 +157,23 @@ document.getElementById('search-button').addEventListener('click', () => {
       const diffDays = (fullProposalDate - currentDate) / (1000 * 60 * 60 * 24);
       fullProposalColor = diffDays <= 7 ? 'red' : diffDays <= 30 ? 'orange' : 'green';
     }
+    
+let deadlineColor = 'gray';
+if (deadlineDate && !isNaN(deadlineDate)) {
+  const diffDays = (deadlineDate - new Date()) / (1000 * 60 * 60 * 24);
+  if (diffDays <= 7) {
+    deadlineColor = 'red';
+  } else if (diffDays <= 30) {
+    deadlineColor = 'orange';
+  } else {
+    deadlineColor = 'green';
+  }
+}
+    
 
     // Handle colors for submission period
     const submissionPeriod = result['submission_period'] || 'N/A';
-    let submissionPeriodColor = 'gray'; // Default color if no submission period
+    let submissionPeriodColor = 'gray';
     if (submissionPeriod !== 'N/A') {
       const periodMatch = submissionPeriod.match(/(\d{1,2} \w+ \d{4}) to (\d{1,2} \w+ \d{4})/);
       if (periodMatch) {
@@ -169,18 +189,21 @@ document.getElementById('search-button').addEventListener('click', () => {
       }
     }
 
-    // Render fields based on category
     if (result.category === 'Grant Info') {
       contentDiv.innerHTML = `
+        <p><strong>Type:</strong> ${result.type || 'N/A'}</p> 
         <p><strong>Category:</strong> ${result.category}</p>
         <p><strong>Pre-Proposal Deadline:</strong> <span style="color: ${preProposalColor}">${result['deadline_pre-proposal'] || 'N/A'}</span></p>
         <p><strong>Full Proposal Deadline:</strong> <span style="color: ${fullProposalColor}">${result['deadline_full-proposal'] || 'N/A'}</span></p>
+        <p><strong>Deadline:</strong> <span style="color: ${deadlineColor}">${result.deadline || 'N/A'}</span></p>
         <p><strong>Submission Period:</strong> <span style="color: ${submissionPeriodColor}">${submissionPeriod}</span></p>
         <p><strong>Funding Amount:</strong> ${result.funding_amount || 'N/A'}</p>
         <p><strong>Domains:</strong> ${result.domains || 'N/A'}</p>
         <p><strong>Eligibility:</strong> ${result.eligibility || 'N/A'}</p>
         <p><strong>Restrictions:</strong> ${result.restrictions || 'N/A'}</p>
         <p><strong>Unique Conditions:</strong> ${result.unique_conditions || 'N/A'}</p>
+        <p><strong>Financial Constraints:</strong> ${result.financial_constraints || 'N/A'}</p>
+        <p><strong>Eligible Costs:</strong> ${result.eligible_costs || 'N/A'}</p>
         <p><strong>Call Document:</strong> <a href="${result.call_document}" target="_blank">Download</a></p>
         <p><strong>Website:</strong> <a href="${result.website}" target="_blank">Visit</a></p>
       `;
@@ -188,19 +211,21 @@ document.getElementById('search-button').addEventListener('click', () => {
       contentDiv.innerHTML = `
         <p><strong>Category:</strong> ${result.category}</p>
         <p><strong>Description:</strong> ${result.description || 'N/A'}</p>
-        <p><strong>Sections:</strong> ${(result.sections || []).join(', ') || 'N/A'}</p>
+        <p><strong>Document:</strong> <a href="${result.document}" target="_blank">Download</a></p>
       `;
-    } else if (result.category === 'Tips') {
+    } else if (result.category === 'Tips' && result.key_tips) {
       contentDiv.innerHTML = `
-        <p><strong>Category:</strong> ${result.category}</p>
         <p><strong>Description:</strong> ${result.description || 'N/A'}</p>
-        <ul>
-          ${(result.tips || []).map(tip => `<li>${tip}</li>`).join('') || '<li>No tips available</li>'}
-        </ul>
+        <p><strong>Category:</strong> ${result.category}</p>
+        <h3>${result.key_tips.title}</h3>
+        <ul>${(result.key_tips.content || []).map(tip => `<li>${tip}</li>`).join('')}</ul>
+        <h4>${result.references.title}</h4>
+        <ul>${(result.references.articles || []).map(article => `
+          <li><strong>${article.title}</strong>: ${article.citation} <em>${article.availability}</em></li>
+        `).join('')}</ul>
       `;
     }
 
-    // Add toggle functionality
     titleButton.addEventListener('click', () => {
       contentDiv.style.display = contentDiv.style.display === 'none' ? 'block' : 'none';
     });
